@@ -1,7 +1,10 @@
 # Logs
 logs
 *.log
+<<<<<<< HEAD
 npm-debug.log*
+=======
+>>>>>>> e1735a684f3059f2fec16cda057d48431d5a5482
 
 # Runtime data
 pids
@@ -24,6 +27,7 @@ coverage
 build/Release
 
 # Dependency directory
+<<<<<<< HEAD
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
 
@@ -35,3 +39,7 @@ bower_components
 
 .DS_Store
 
+=======
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+>>>>>>> e1735a684f3059f2fec16cda057d48431d5a5482
